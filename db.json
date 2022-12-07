@@ -1,0 +1,194 @@
+{
+  "diagnosis":[
+        {
+            "id":1,
+            "title":"Domain I",
+            "content":"(Nutrisi)"
+        },
+        {
+            "id":1,
+            "title":"Domain II",
+            "content":"(Eliminasi dan pertukaran)"
+        },
+        {
+            "id":1,
+            "title":"Domain III",
+            "content":"(Aktivitas / Istirahat)"
+        },
+        {
+            "id":1,
+            "title":"Domain IV",
+            "content":"(Persepsi / Kognisi)"
+        },
+        {
+            "id":1,
+            "title":"Domain V",
+            "content":"(Persepsi diri)"
+        },
+        {
+            "id":1,
+            "title":"Domain VI",
+            "content":"(Hubungan Peran)"
+        },
+        {
+            "id":1,
+            "title":"Domain VII",
+            "content":"(Seksualitas)"
+        },
+        {
+            "id":1,
+            "title":"Domain VIII",
+            "content":"(Koping / toleransi stres)"
+        },
+        {
+            "id":1,
+            "title":"Domain IX",
+            "content":"(Persepsi diri)"
+        },
+        {
+            "id":1,
+            "title":"Domain X",
+            "content":"(Hubungan Peran)"
+        },
+        {
+            "id":1,
+            "title":"Domain XI",
+            "content":"(Seksualitas)"
+        },
+        {
+            "id":1,
+            "title":"Domain XII",
+            "content":"(Koping / toleransi stres)"
+        }
+
+
+    ],
+    "luaran":[
+        {
+            "id":1,
+            "title":"Domain I",
+            "content":"(Nutrisi)"
+        },
+        {
+            "id":1,
+            "title":"Domain II",
+            "content":"(Eliminasi dan pertukaran)"
+        },
+        {
+            "id":1,
+            "title":"Domain III",
+            "content":"(Aktivitas / Istirahat)"
+        },
+        {
+            "id":1,
+            "title":"Domain IV",
+            "content":"(Persepsi / Kognisi)"
+        },
+        {
+            "id":1,
+            "title":"Domain V",
+            "content":"(Persepsi diri)"
+        },
+        {
+            "id":1,
+            "title":"Domain VI",
+            "content":"(Hubungan Peran)"
+        },
+        {
+            "id":1,
+            "title":"Domain VII",
+            "content":"(Seksualitas)"
+        },
+        {
+            "id":1,
+            "title":"Domain VIII",
+            "content":"(Koping / toleransi stres)"
+        },
+        {
+            "id":1,
+            "title":"Domain IX",
+            "content":"(Persepsi diri)"
+        },
+        {
+            "id":1,
+            "title":"Domain X",
+            "content":"(Hubungan Peran)"
+        },
+        {
+            "id":1,
+            "title":"Domain XI",
+            "content":"(Seksualitas)"
+        },
+        {
+            "id":1,
+            "title":"Domain XII",
+            "content":"(Koping / toleransi stres)"
+        }
+
+
+    ],
+    "intervensi":[
+        {
+            "id":1,
+            "title":"Domain I",
+            "content":"(Nutrisi)"
+        },
+        {
+            "id":1,
+            "title":"Domain II",
+            "content":"(Eliminasi dan pertukaran)"
+        },
+        {
+            "id":1,
+            "title":"Domain III",
+            "content":"(Aktivitas / Istirahat)"
+        },
+        {
+            "id":1,
+            "title":"Domain IV",
+            "content":"(Persepsi / Kognisi)"
+        },
+        {
+            "id":1,
+            "title":"Domain V",
+            "content":"(Persepsi diri)"
+        },
+        {
+            "id":1,
+            "title":"Domain VI",
+            "content":"(Hubungan Peran)"
+        },
+        {
+            "id":1,
+            "title":"Domain VII",
+            "content":"(Seksualitas)"
+        },
+        {
+            "id":1,
+            "title":"Domain VIII",
+            "content":"(Koping / toleransi stres)"
+        },
+        {
+            "id":1,
+            "title":"Domain IX",
+            "content":"(Persepsi diri)"
+        },
+        {
+            "id":1,
+            "title":"Domain X",
+            "content":"(Hubungan Peran)"
+        },
+        {
+            "id":1,
+            "title":"Domain XI",
+            "content":"(Seksualitas)"
+        },
+        {
+            "id":1,
+            "title":"Domain XII",
+            "content":"(Koping / toleransi stres)"
+        }
+
+
+    ]
+}
